@@ -16,6 +16,9 @@
     </head>
     
     <body>
+        <a href ="https://github.com/JBM-118358721/phpProject3">Github</a>
+        <br>
+        <a href ="https://jbm-118358721.herokuapp.com/">Heroku</a>
     <center>
         <h1>My IS1113 Web Design Project</h1>
      <!--   <button type="button" onclick="alert('this will bring you to the cv page')">C.V.</button>
